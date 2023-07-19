@@ -1,4 +1,4 @@
-package net.batty.battystuf;
+package net.batty.battystuff;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;

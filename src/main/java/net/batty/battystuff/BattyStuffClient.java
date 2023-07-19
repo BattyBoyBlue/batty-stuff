@@ -1,4 +1,4 @@
-package net.batty.battystuf;
+package net.batty.battystuff;
 
 import net.fabricmc.api.ClientModInitializer;
 

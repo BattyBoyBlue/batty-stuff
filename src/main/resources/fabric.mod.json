@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.batty.battystuf.BattyStuff"
+			"net.batty.battystuff.BattyStuff"
 		],
 		"client": [
-			"net.batty.battystuf.BattyStuffClient"
+			"net.batty.battystuff.BattyStuffClient"
 		],
 		"fabric-datagen": [
-			"net.batty.battystuf.BattyStuffDataGenerator"
+			"net.batty.battystuff.BattyStuffDataGenerator"
 		]
 	},
 	"mixins": [
