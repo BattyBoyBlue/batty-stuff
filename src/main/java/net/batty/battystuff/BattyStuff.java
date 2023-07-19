@@ -1,5 +1,6 @@
 package net.batty.battystuff;
 
+import net.batty.battystuff.item.ModItemGroups;
 import net.batty.battystuff.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,6 +14,7 @@ public class BattyStuff  implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
+		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 	}
 }

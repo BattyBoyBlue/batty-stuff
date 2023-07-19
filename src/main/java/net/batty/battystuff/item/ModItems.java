@@ -12,9 +12,12 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
     public static final Item BLOOD = registerItem("blood", new Item(new FabricItemSettings()));
+    public static final Item SYRINGE = registerItem("syringe", new Item(new FabricItemSettings()));
+
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(BLOOD);
+        entries.add(SYRINGE);
     }
 
     private static Item registerItem(String name, Item item) {

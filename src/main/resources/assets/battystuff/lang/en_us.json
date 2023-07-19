@@ -1,3 +1,5 @@
 {
-  "item.battystuff.blood": "Blood"
+  "item.battystuff.blood": "Blood",
+  "item.battystuff.syringe": "Syringe",
+  "itemgroup.batty": "Batty Stuff"
 }
